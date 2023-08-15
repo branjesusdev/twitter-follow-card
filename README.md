@@ -1,4 +1,4 @@
-![Twitter Follow Card](/public/landing.png)
+![Twitter Follow Card](/src/assets/landing.png)
 
 # React + Vite
 
